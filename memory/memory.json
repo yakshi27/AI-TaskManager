@@ -1,0 +1,299 @@
+{
+  "plans": [
+    {
+      "goal": "I want to learn python, JAVA in 2 months.",
+      "parsed_goal": {
+        "total_days": 2,
+        "hours_per_day": 2.0,
+        "topics": [
+          "Python,",
+          "Introduction and Basics",
+          "Core Concepts",
+          "Intermediate Topics",
+          "Advanced Concepts"
+        ],
+        "goal_summary": "I want to learn python, JAVA in 2 months."
+      },
+      "schedule": [
+        {
+          "day": 1,
+          "topic": "Python,",
+          "duration_hours": 2.0,
+          "status": "done",
+          "notes": "Study Python,"
+        },
+        {
+          "day": 2,
+          "topic": "Introduction and Basics",
+          "duration_hours": 2.0,
+          "status": "done",
+          "notes": "Study Introduction and Basics"
+        }
+      ],
+      "created_at": "2025-11-29T19:44:57.005235",
+      "updated_at": "2025-11-29T19:51:32.004611",
+      "id": 1
+    },
+    {
+      "goal": "CNN Completed",
+      "parsed_goal": {
+        "total_days": 1,
+        "hours_per_day": 5.0,
+        "topics": [
+          "Fundamentals",
+          "Core Concepts",
+          "Practice",
+          "Advanced Topics",
+          "Projects"
+        ],
+        "goal_summary": "CNN Completed"
+      },
+      "schedule": [
+        {
+          "day": 1,
+          "topic": "Fundamentals",
+          "duration_hours": 5.0,
+          "status": "pending",
+          "notes": "Study Fundamentals"
+        }
+      ],
+      "created_at": "2025-12-01T09:42:58.255912",
+      "updated_at": "2025-12-01T09:42:58.255912",
+      "id": 2
+    },
+    {
+      "goal": "want to complete computer vision in 30 days\n",
+      "parsed_goal": {
+        "total_days": 30,
+        "hours_per_day": 1.0,
+        "topics": [
+          "Fundamentals",
+          "Core Concepts",
+          "Practice",
+          "Advanced Topics",
+          "Projects"
+        ],
+        "goal_summary": "want to complete computer vision in 30 days\n"
+      },
+      "schedule": [
+        {
+          "day": 1,
+          "topic": "Fundamentals",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Fundamentals"
+        },
+        {
+          "day": 2,
+          "topic": "Fundamentals",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Fundamentals"
+        },
+        {
+          "day": 3,
+          "topic": "Fundamentals",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Fundamentals"
+        },
+        {
+          "day": 4,
+          "topic": "Fundamentals",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Fundamentals"
+        },
+        {
+          "day": 5,
+          "topic": "Fundamentals",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Fundamentals"
+        },
+        {
+          "day": 6,
+          "topic": "Fundamentals",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Fundamentals"
+        },
+        {
+          "day": 7,
+          "topic": "Core Concepts",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Core Concepts"
+        },
+        {
+          "day": 8,
+          "topic": "Core Concepts",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Core Concepts"
+        },
+        {
+          "day": 9,
+          "topic": "Core Concepts",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Core Concepts"
+        },
+        {
+          "day": 10,
+          "topic": "Core Concepts",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Core Concepts"
+        },
+        {
+          "day": 11,
+          "topic": "Core Concepts",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Core Concepts"
+        },
+        {
+          "day": 12,
+          "topic": "Core Concepts",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Core Concepts"
+        },
+        {
+          "day": 13,
+          "topic": "Practice",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Practice"
+        },
+        {
+          "day": 14,
+          "topic": "Practice",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Practice"
+        },
+        {
+          "day": 15,
+          "topic": "Practice",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Practice"
+        },
+        {
+          "day": 16,
+          "topic": "Practice",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Practice"
+        },
+        {
+          "day": 17,
+          "topic": "Practice",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Practice"
+        },
+        {
+          "day": 18,
+          "topic": "Practice",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Practice"
+        },
+        {
+          "day": 19,
+          "topic": "Advanced Topics",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Advanced Topics"
+        },
+        {
+          "day": 20,
+          "topic": "Advanced Topics",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Advanced Topics"
+        },
+        {
+          "day": 21,
+          "topic": "Advanced Topics",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Advanced Topics"
+        },
+        {
+          "day": 22,
+          "topic": "Advanced Topics",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Advanced Topics"
+        },
+        {
+          "day": 23,
+          "topic": "Advanced Topics",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Advanced Topics"
+        },
+        {
+          "day": 24,
+          "topic": "Advanced Topics",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Advanced Topics"
+        },
+        {
+          "day": 25,
+          "topic": "Projects",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Projects"
+        },
+        {
+          "day": 26,
+          "topic": "Projects",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Projects"
+        },
+        {
+          "day": 27,
+          "topic": "Projects",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Projects"
+        },
+        {
+          "day": 28,
+          "topic": "Projects",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Projects"
+        },
+        {
+          "day": 29,
+          "topic": "Projects",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Projects"
+        },
+        {
+          "day": 30,
+          "topic": "Projects",
+          "duration_hours": 1.0,
+          "status": "pending",
+          "notes": "Study Projects"
+        }
+      ],
+      "created_at": "2025-12-14T13:57:17.993801",
+      "updated_at": "2025-12-14T13:57:17.993801",
+      "id": 3
+    }
+  ],
+  "metadata": {
+    "created_at": "2024-01-01T00:00:00",
+    "version": "1.0.0"
+  }
+}
