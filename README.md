@@ -1,11 +1,5 @@
 # 🎓 Agentic AI Study Planner & Task Manager
-## **ULTIMATE EDITION** ⚡
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.29+-red.svg)](https://streamlit.io/)
-[![Google Gemini](https://img.shields.io/badge/Gemini-AI-orange.svg)](https://ai.google.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 > **Transform your vague learning goals into structured, AI-powered study plans in seconds.** The most advanced agentic AI study planner with beautiful UI, smart analytics, and zero configuration hassle.
 
@@ -42,40 +36,6 @@
 - 💾 **Auto-save** every action
 - 🚀 **Blazing Fast** with optimized caching
 
----
-
-## 🎬 See It In Action
-
-### 📸 Screenshots
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="docs/images/dashboard.png" alt="Dashboard" />
-      <p align="center"><b>📊 Beautiful Dashboard</b></p>
-    </td>
-    <td width="50%">
-      <img src="docs/images/create-plan.png" alt="Create Plan" />
-      <p align="center"><b>📝 AI-Powered Plan Creation</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="docs/images/analytics.png" alt="Analytics" />
-      <p align="center"><b>📈 Advanced Analytics</b></p>
-    </td>
-    <td width="50%">
-      <img src="docs/images/achievements.png" alt="Achievements" />
-      <p align="center"><b>🏆 Gamification & Achievements</b></p>
-    </td>
-  </tr>
-</table>
-
-### 🎥 Demo Video
-
-[![Watch Demo](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge)](https://youtu.be/your-demo-link)
-
----
 
 ## 🚀 Quick Start (60 Seconds)
 
