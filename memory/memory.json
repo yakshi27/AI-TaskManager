@@ -290,6 +290,47 @@
       "created_at": "2025-12-14T13:57:17.993801",
       "updated_at": "2025-12-14T13:57:17.993801",
       "id": 3
+    },
+    {
+      "goal": "prepare for os in 3 days",
+      "parsed_goal": {
+        "total_days": 3,
+        "hours_per_day": 2.0,
+        "topics": [
+          "Fundamentals",
+          "Core Concepts",
+          "Practice",
+          "Advanced Topics",
+          "Projects"
+        ],
+        "goal_summary": "prepare for os in 3 days"
+      },
+      "schedule": [
+        {
+          "day": 1,
+          "topic": "Fundamentals",
+          "duration_hours": 2.0,
+          "status": "pending",
+          "notes": "Study Fundamentals"
+        },
+        {
+          "day": 2,
+          "topic": "Core Concepts",
+          "duration_hours": 2.0,
+          "status": "pending",
+          "notes": "Study Core Concepts"
+        },
+        {
+          "day": 3,
+          "topic": "Practice",
+          "duration_hours": 2.0,
+          "status": "pending",
+          "notes": "Study Practice"
+        }
+      ],
+      "created_at": "2026-09-22T01:24:38.814965",
+      "updated_at": "2026-09-22T01:24:38.814965",
+      "id": 4
     }
   ],
   "metadata": {
