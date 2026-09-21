@@ -454,36 +454,6 @@ Currently it's single-user. Multi-user support is planned for v2.0. For now, eac
 You can create a new plan anytime. The old plan is saved and you can switch between them in the "All Plans" page.
 </details>
 
----
-
-## 🏆 Showcase
-
-### 📢 **Built With This**
-
-Share your success stories! Create a PR to add your story:
-
-- 🎓 **John D.** - "Learned React in 30 days and got hired!"
-- 💼 **Sarah M.** - "Passed AWS Solutions Architect with this plan"
-- 👨‍💻 **Mike T.** - "100+ LeetCode problems in 60 days"
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 Agentic Study Planner
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
----
-
 ## 🙏 Acknowledgments
 
 - **Google Gemini AI** - Powering the intelligence
@@ -491,59 +461,11 @@ in the Software without restriction...
 - **Plotly** - Beautiful visualizations
 - **Open Source Community** - For inspiration and support
 
----
 
-## 📞 Support & Contact
-
-### 💬 **Get Help**
-
-- 📧 **Email**: support@studyplanner.com
-- 💬 **Discord**: [Join our community](https://discord.gg/studyplanner)
-- 🐦 **Twitter**: [@AgenticPlanner](https://twitter.com/agenticplanner)
-- 📖 **Documentation**: [docs.studyplanner.com](https://docs.studyplanner.com)
-
-### 🐛 **Report Issues**
-
-Found a bug? [Create an issue](https://github.com/yourusername/study-planner/issues/new)
-
-### 💡 **Feature Requests**
-
-Have an idea? [Suggest a feature](https://github.com/yourusername/study-planner/discussions/new)
-
----
-
-## ⭐ Star History
-
-If this project helped you, please consider giving it a ⭐ on GitHub!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/agentic-study-planner&type=Date)](https://star-history.com/#yourusername/agentic-study-planner&Date)
-
----
-
-## 💖 Support the Project
-
-Love this project? Here's how you can support:
-
-1. ⭐ **Star** the repository
-2. 🔀 **Fork** and contribute
-3. 📢 **Share** with friends and colleagues
-4. 🐛 **Report bugs** to help improve
-5. 💡 **Suggest features** for future versions
-6. 📝 **Write tutorials** or blog posts
-7. ☕ **Buy us a coffee** (coming soon)
-
----
-
-<div align="center">
-
-**Made with ❤️ and 🤖 AI**
 
 **Transform Your Learning Journey Today! 🚀**
 
 [⬆ Back to Top](#-agentic-ai-study-planner--task-manager)
 
----
-
-**© 2024 Agentic Study Planner | [Website](https://studyplanner.com) | [Docs](https://docs.studyplanner.com) | [Blog](https://blog.studyplanner.com)**
 
 </div>
